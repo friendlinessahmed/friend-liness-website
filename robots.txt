@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://friendlinessahmed.github.io/friend-liness-website/sitemap.xml
